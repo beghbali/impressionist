@@ -220,6 +220,7 @@ Contributing to impressionist
 
 Want to run the tests? Ok mummy
 -------------------------------
+* Do *not* run ``bundle install`` in the top-level directory. If you have already, get yourself a clean gemset to work with before continuing.
 * `cd tests/test_app`
 * bundle install
 * rails g impressionist
