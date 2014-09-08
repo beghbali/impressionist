@@ -220,6 +220,7 @@ Contributing to impressionist
 
 Want to run the tests? Ok mummy
 -------------------------------
+* `cd tests/test_app`
 * bundle install
 * rails g impressionist
 * rake db:migrate && rake db:test:prepare
